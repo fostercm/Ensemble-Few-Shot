@@ -1,5 +1,8 @@
 # Ensemble-Few-Shot
-Ensemble model approach for few-shot classification of diabetic retinopathy data
+Ensemble model approach for few-shot classification of diabetic retinopathy data  
+
+Dataset provided by the California Healthcare Foundation  
+Available at https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 Packages and Versions:  
 asttokens==2.4.1  
