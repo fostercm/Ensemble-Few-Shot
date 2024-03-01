@@ -1,8 +1,8 @@
 # Ensemble-Few-Shot
 Ensemble model approach for few-shot classification of diabetic retinopathy data
 
-Packages and Versions:
-asttokens==2.4.1
+Packages and Versions:  
+asttokens==2.4.1  
 certifi==2023.11.17
 charset-normalizer==3.3.2
 colorama==0.4.6
